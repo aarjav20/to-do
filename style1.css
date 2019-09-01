@@ -3,15 +3,14 @@
 }
 
 html,
-body {
-  background: #E3EE44;
+body {background: #FFB6C1;
   width: 100%;
   height: 100%;
 }
 
 h1 {
   font-size: 50px;
-  color: #0E5E05;
+  color: #9932CC;
 }
 
 .top-box h1 {
@@ -65,6 +64,12 @@ input:focus {
 }
 #add{
 	color: #000EEE
+}
+.remove{
+	color: #FF0000;
+}
+.remove:hover{
+	color: #0000FF;
 }
 .add-more {
   color: #C0C8D2;
