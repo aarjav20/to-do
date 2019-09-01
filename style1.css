@@ -68,7 +68,7 @@ input:focus {
 .remove{
 	color: #FF0000;
 }
-.remove:hover{
+#remo:hover{
 	color: #0000FF;
 }
 .add-more {
